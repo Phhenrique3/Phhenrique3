@@ -71,9 +71,7 @@
 
 <div>
 
-<img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"
-
-/> <h3> Meus interesses pessoais: </h3>  
+<img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"/> <h3> Meus interesses pessoais: </h3>  
 Meus interesses pessoais são variados e definem quem eu sou e como passo meu tempo. Sou um aficionado por futebol e torço fervorosamente pelo Atlético Mineiro. Adoro também jogar bola e me divertir com meu PlayStation 4. Além disso, o basquete é uma paixão que me cativa com a sua dinâmica e emoção.
 
 Mas não paro por aí. Tenho uma sede insaciável por aprender, e é aí que a programação entra em cena. Adoro desafios lógicos e me envolvo profundamente nesse mundo. Hoje, sou um analista de suporte computacional, o que me permite combinar minha paixão por tecnologia com meu desejo constante de aprender.
