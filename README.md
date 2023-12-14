@@ -32,7 +32,7 @@
 
 <hr/>
 
- <img height="20" alt="GIF" src="assets/soulgem_pedro.gif" /> <h3> Sobre mim: </h3> 
+ <img height="20" alt="GIF" src="assets/soulgem_pedro.gif" />  <h3> Sobre mim: </h3> 
 
 <div align="justify">
     Meu nome é Pedro Henrique 
@@ -65,7 +65,6 @@
 \<div>
 <div>
 </div>
-
 <img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"
 />  Meus interesses pessoais:
 Meus interesses pessoais são variados e definem quem eu sou e como passo meu tempo. Sou um aficionado por futebol e torço fervorosamente pelo Atlético Mineiro. Adoro também jogar bola e me divertir com meu PlayStation 4. Além disso, o basquete é uma paixão que me cativa com a sua dinâmica e emoção.
