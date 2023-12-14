@@ -85,12 +85,7 @@ Esses interesses não apenas definem minhas paixões pessoais, mas também molda
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src= "assets/spotify.gif"
-    
-    
-    /> Pedro Spotify Data</summary>
-
-
+<summary><img height="20" alt="GIF" src= "assets/spotify.gif"/> Pedro Spotify Data</summary>
 <img src=" https://data-card-for-spotify.herokuapp.com/card?user_id=22d47xtnfbedxrlbj5vvle6fi"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22d47xtnfbedxrlbj5vvle6fi" alt="Data Card for Spotify"alt="Data Card for Spotify">
 </details>
 </div>
