@@ -35,7 +35,7 @@
  <img height="20" alt="GIF" src="assets/soulgem_pedro.gif" /> <h3> Sobre mim: </h3> 
 
 <div align="justify">
-    Meu é Pedro Henrique 
+    Meu nome é Pedro Henrique 
 
     Estudante de Tecnologia da Informação | Suporte de TI
     
@@ -43,15 +43,11 @@
     
     Experiência Profissional:
     Suporte de TI - Plenum Sistemas
-    
-    
-    
+
     Educação:
     Bacharelado em Tecnologia da Informação - Newton Paiva 
     
-    
     Principais habilidades:
-    
     Suporte técnico de TI
     Resolução de problemas
     Conhecimento de sistemas operacionais (Windows, Linux MacOS)
@@ -60,18 +56,18 @@
     Troubleshooting
     Comunicação efetiva
     Trabalho em equipe
-    
-    
-    Português (nativo)
     Inglês (intermediário)
     Estou aberto a oportunidades de aprendizado e crescimento no campo de TI. Se você estiver procurando por um profissional de suporte de TI comprometido, que busca se aprimorar constantemente e agregar valor à equipe, não hesite em entrar em contato. Estou ansioso para conectar-me com colegas e profissionais da área.
+    
+</div>
+<hr/>
+<img align="right" alt="GIF" src="assets/giphy_pedro.gif "340px" height="440px"/>
+\<div>
+<div>
 </div>
 
-<hr/>
-
-<div>
-
-<img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"/> <h3> Meus interesses pessoais: </h3>  
+<img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"
+/>  Meus interesses pessoais:
 Meus interesses pessoais são variados e definem quem eu sou e como passo meu tempo. Sou um aficionado por futebol e torço fervorosamente pelo Atlético Mineiro. Adoro também jogar bola e me divertir com meu PlayStation 4. Além disso, o basquete é uma paixão que me cativa com a sua dinâmica e emoção.
 
 Mas não paro por aí. Tenho uma sede insaciável por aprender, e é aí que a programação entra em cena. Adoro desafios lógicos e me envolvo profundamente nesse mundo. Hoje, sou um analista de suporte computacional, o que me permite combinar minha paixão por tecnologia com meu desejo constante de aprender.
