@@ -6,25 +6,18 @@
 <div>
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="4"></td>
 </tr> 
 <tr>
 <td><a href="https://github.com/Phhenrique3"target="_blank"><img src="assets/github imagem .png" width="50px" height="50px" > </a>
 </td>
 <td><a href="https://www.instagram.com/ph__henrique3/" target="_blank"><img src= "assets/insta.png" width="50px" height="50px"> </a>
  </td>
-
-<td><a href=" https://www.linkedin.com/in/pedro-henrique-833242238 "target="_blank"> <img src="assets/linkedin.png"50px" height="50px"/></a>
-<td>
+<td><a href="https://www.linkedin.com/in/pedro-phenrique3/"target="_blank"> <img src="assets/linkedin.png"50px" height="50px"/></a>
+ </td>
+ <td><a href="https://wa.me/5531988696885" target="_blank"><img src= "assets/icons8-whatsapp-50.png" 50px" height="50px" ></a>
 </td>
-<a href="https://wa.me/5531988696885" target="_blank"><img src= "assets/icons8-whatsapp-50.png" 50px" height="50px" > </a> </td>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
 </table>
-
 </div>
 <div align="justify">
 <i><b>Olá</b> sou o <code>Pedro </code>, tenho 20 anos, moro em BH, Sou estudante dedicado de Tecnologia da Informação cursando o 3º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.</a></i> :man_teacher:.<br />
