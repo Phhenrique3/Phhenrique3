@@ -20,7 +20,7 @@
 </table>
 </div>
 <div align="justify">
-<i><b>Olá</b> sou o <code>Pedro </code>, tenho 20 anos, moro em BH, Sou estudante dedicado de Tecnologia da Informação cursando o 3º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.</a></i> :man_teacher:.<br />
+<i><b>Olá</b> sou o <code>Pedro </code>, tenho 20 anos, moro em BH, Sou estudante dedicado de Tecnologia da Informação cursando o 4º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.</a></i> :man_teacher:.<br />
 </div>
 
 <hr/>
