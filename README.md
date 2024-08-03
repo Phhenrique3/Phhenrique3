@@ -20,7 +20,7 @@
 </table>
 </div>
 <div align="justify">
-<i><b>Olá</b> sou o <code>Pedro </code>, tenho 20 anos, moro em BH, Sou estudante dedicado de Tecnologia da Informação cursando o 4º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.</a></i> :man_teacher:.<br />
+<i><b>Olá</b> sou o <code>Pedro </code>, Tenho 21 anos e moro em Belo Horizonte. Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível 1, onde me esforço para garantir a estabilidade e segurança dos sistemas. Meu objetivo é aprimorar constantemente meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Tenho uma paixão por resolver problemas complexos, oferecer suporte técnico de qualidade e aprender novas tecnologias. Acredito que a curiosidade e a vontade de aprender são essenciais para o sucesso na área de TI, e estou sempre em busca de novas oportunidades para crescer e evoluir profissionalmente.</a></i> :man_teacher:.<br />
 </div>
 
 <hr/>
@@ -32,10 +32,10 @@
 
     Estudante de Tecnologia da Informação | Suporte de TI
     
-    Sou estudante dedicado de Tecnologia da Informação cursando o 3º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
+    Sou estudante dedicado de Tecnologia da Informação cursando o 4º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
     
     Experiência Profissional:
-    Suporte de TI - Plenum Sistemas
+    Suporte de TI - Sisloc Softwares
 
     Educação:
     Bacharelado em Tecnologia da Informação - Newton Paiva 
