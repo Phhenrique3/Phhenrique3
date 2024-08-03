@@ -82,8 +82,9 @@ Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo 
  Meus interesses pessoais definem muito sobre quem eu sou e como passo meu tempo. Sou um grande fã do Atlético Mineiro e sigo com entusiasmo todas as partidas. O basquete também é uma paixão minha, e eu adoro a energia e a emoção do jogo.
 
 Além disso, tenho uma paixão por música e adoro escutar meus artistas favoritos. No meu tempo livre, gosto de jogar no meu PS4, especialmente Call of Duty: Warzone e FIFA 24. Também gosto de sair e aproveitar momentos descontraídos com amigos.
+<img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"
+/>  
 
-<img align="right" alt="GIF" src="assets/giphy_pedro.gif "340px" height="440px"/>
 <div align="justify">
 <hr/>
 <div>
