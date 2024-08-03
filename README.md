@@ -20,7 +20,7 @@
 </table>
 </div>
 <div align="justify">
-<i><b>Olá</b> sou o <code>Pedro </code>, Tenho 21 anos e moro em Belo Horizonte. Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível 1, onde me esforço para garantir a estabilidade e segurança dos sistemas. Meu objetivo é aprimorar constantemente meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Tenho uma paixão por resolver problemas complexos, oferecer suporte técnico de qualidade e aprender novas tecnologias. Acredito que a curiosidade e a vontade de aprender são essenciais para o sucesso na área de TI, e estou sempre em busca de novas oportunidades para crescer e evoluir profissionalmente.</a></i> :man_teacher:.<br />
+<i><b>Olá</b> sou o <code>Pedro </code>, Tenho 21 anos e moro em Belo Horizonte. Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível N1, onde me esforço para garantir a estabilidade e segurança dos sistemas. Meu objetivo é aprimorar constantemente meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Tenho uma paixão por resolver problemas complexos, oferecer suporte técnico de qualidade e aprender novas tecnologias. Acredito que a curiosidade e a vontade de aprender são essenciais para o sucesso na área de TI, e estou sempre em busca de novas oportunidades para crescer e evoluir profissionalmente.</a></i> :man_teacher:.<br />
 </div>
 
 <hr/>
@@ -28,29 +28,47 @@
  <img height="20" alt="GIF" src="assets/soulgem_pedro.gif" />  <h3> Sobre mim: </h3> 
 
 <div align="justify">
-    Meu nome é Pedro Henrique 
+    Meu nome é Pedro Henrique.
 
-    Estudante de Tecnologia da Informação | Suporte de TI
-    
-    Sou estudante dedicado de Tecnologia da Informação cursando o 4º semestre. Atualmente, atuo como profissional de Suporte de TI, oferecendo soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Busco constantemente aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Sou apaixonado por resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
-    
-    Experiência Profissional:
-    Suporte de TI - Sisloc Softwares
+Estudante de Ciências da Computação | Analista de Suporte N1
+Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível 1, onde ofereço soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Estou sempre buscando aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Adoro resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
 
-    Educação:
-    Bacharelado em Tecnologia da Informação - Newton Paiva 
-    
-    Principais habilidades:
-    Suporte técnico de TI
-    Resolução de problemas
-    Conhecimento de sistemas operacionais (Windows, Linux MacOS)
-    Redes de computadores
-    Hardware e software
-    Troubleshooting
-    Comunicação efetiva
-    Trabalho em equipe
-    Inglês (intermediário)
-    Estou aberto a oportunidades de aprendizado e crescimento no campo de TI. Se você estiver procurando por um profissional de suporte de TI comprometido, que busca se aprimorar constantemente e agregar valor à equipe, não hesite em entrar em contato. Estou ansioso para conectar-me com colegas e profissionais da área.
+Experiência Profissional:
+Analista de Suporte N1 - Sisloc Softwares
+Educação:
+Bacharelado em Ciências da Computação - Newton Paiva
+Principais habilidades:
+Suporte técnico de TI
+Resolução de problemas
+Conhecimento de sistemas operacionais (Windows, Linux, MacOS)
+Redes de computadores
+Hardware e software
+Troubleshooting
+Comunicação efetiva
+Trabalho em equipe
+Experiência em JavaScript, HTML, e CSS (básico)
+Conhecimentos básicos em diagrama de UML e MySQL
+Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo de TI. Se você está procurando um profissional de suporte de TI comprometido, que busca se aprimorar constantemente e agregar valor à equipe, não hesite em entrar em contato. Estou ansioso para me conectar com colegas e profissionais da área.Meu nome é Pedro Henrique.
+
+Estudante de Ciências da Computação | Analista de Suporte N1
+Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível 1, onde ofereço soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Estou sempre buscando aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Adoro resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
+
+Experiência Profissional:
+Analista de Suporte N1 - Sisloc Softwares
+Educação:
+Bacharelado em Ciências da Computação - Newton Paiva
+Principais habilidades:
+Suporte técnico de TI
+Resolução de problemas
+Conhecimento de sistemas operacionais (Windows, Linux, MacOS)
+Redes de computadores
+Hardware e software
+Troubleshooting
+Comunicação efetiva
+Trabalho em equipe
+Experiência em JavaScript, HTML, e CSS (básico)
+Conhecimentos básicos em diagrama de UML e MySQL
+Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo de TI. Se você está procurando um profissional de suporte de TI comprometido, que busca se aprimorar constantemente e agregar valor à equipe, não hesite em entrar em contato. Estou ansioso para me conectar com colegas e profissionais da área.
     
 </div>
 <hr/>
