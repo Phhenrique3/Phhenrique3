@@ -77,13 +77,11 @@ Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo 
 <div>
 </div>
 <img height="20" alt="GIF" src= "assets/soulgem_pedro.gif"
-/>  Meus interesses pessoais:
-Meus interesses pessoais são variados e definem quem eu sou e como passo meu tempo. Sou um aficionado por futebol e torço fervorosamente pelo Atlético Mineiro. Adoro também jogar bola e me divertir com meu PlayStation 4. Além disso, o basquete é uma paixão que me cativa com a sua dinâmica e emoção.
+/>  
 
-Mas não paro por aí. Tenho uma sede insaciável por aprender, e é aí que a programação entra em cena. Adoro desafios lógicos e me envolvo profundamente nesse mundo. Hoje, sou um analista de suporte computacional, o que me permite combinar minha paixão por tecnologia com meu desejo constante de aprender.
+ Meus interesses pessoais definem muito sobre quem eu sou e como passo meu tempo. Sou um grande fã do Atlético Mineiro e sigo com entusiasmo todas as partidas. O basquete também é uma paixão minha, e eu adoro a energia e a emoção do jogo.
 
-Esses interesses não apenas definem minhas paixões pessoais, mas também moldam minha carreira, fornecendo um equilíbrio entre trabalho e prazer. Eles são a força motriz por trás das minhas escolhas, proporcionando-me satisfação e realização em minha jornada de vida.
-
+Além disso, tenho uma paixão por música e adoro escutar meus artistas favoritos. No meu tempo livre, gosto de jogar no meu PS4, especialmente Call of Duty: Warzone e FIFA 24. Também gosto de sair e aproveitar momentos descontraídos com amigos.
 <div align="justify">
 <hr/>
 <div>
