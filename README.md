@@ -28,28 +28,15 @@
  <img height="20" alt="GIF" src="assets/soulgem_pedro.gif" />  <h3> Sobre mim: </h3> 
 
 <div align="justify">
-    Meu nome é Pedro Henrique.
+  Meu nome é Pedro Henrique, sou estudante de Ciências da Computação, atualmente no 4º semestre, e trabalho como Analista de Suporte Nível 1 na Sisloc Softwares. No meu dia a dia, busco oferecer soluções que garantam a estabilidade e segurança dos sistemas de TI, sempre com o objetivo de otimizar processos e melhorar a experiência do usuário.
 
-Estudante de Ciências da Computação | Analista de Suporte N1
-Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível 1, onde ofereço soluções eficientes para garantir a estabilidade e a segurança dos sistemas de TI. Estou sempre buscando aprimorar meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Adoro resolver problemas complexos, fornecer suporte técnico excepcional e aprender novas tecnologias.
+Tenho uma paixão por resolver problemas e estou sempre em busca de aprender novas tecnologias. Busco combinar a teoria adquirida no curso com a prática no meu trabalho, o que me permite crescer constantemente e me desafiar a cada tarefa.
 
-Experiência Profissional:
-Analista de Suporte N1 - Sisloc Softwares
-Educação:
-Bacharelado em Ciências da Computação - Newton Paiva
-Principais habilidades:
-Suporte técnico de TI
-Resolução de problemas
-Conhecimento de sistemas operacionais (Windows, Linux, MacOS)
-Redes de computadores
-Hardware e software
-Troubleshooting
-Comunicação efetiva
-Trabalho em equipe
-Experiência em JavaScript, HTML, e CSS (básico)
-Conhecimentos básicos em diagrama de UML e MySQL
-Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo de TI. Se você está procurando um profissional de suporte de TI comprometido, que busca se aprimorar constantemente e agregar valor à equipe, não hesite em entrar em contato. Estou ansioso para me conectar com colegas e profissionais da área.Meu nome é Pedro Henrique.
-    
+Tenho experiência em suporte técnico de TI, resolução de problemas, redes de computadores, troubleshooting e um bom conhecimento de sistemas operacionais como Windows, Linux e macOS. Além disso, estou me aprofundando em tecnologias como JavaScript, HTML, CSS, UML e MySQL. Acredito no poder do trabalho em equipe e valorizo uma comunicação clara e eficaz.
+
+Estou sempre aberto a novas oportunidades de aprendizado e crescimento no campo de TI. Se você está buscando um profissional comprometido, com vontade de evoluir e agregar valor à equipe, adoraria me conectar com você!
+
+   
 </div>
 <hr/>
 <img align="right" alt="GIF" src="assets/giphy_pedro.gif "340px" height="440px"/>
