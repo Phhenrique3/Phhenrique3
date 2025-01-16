@@ -20,7 +20,7 @@
 </table>
 </div>
 <div align="justify">
-<i><b>Olá</b> sou o <code>Pedro </code>, Tenho 21 anos e moro em Belo Horizonte. Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre. Trabalho como Analista de Suporte Nível N1, onde me esforço para garantir a estabilidade e segurança dos sistemas. Meu objetivo é aprimorar constantemente meus conhecimentos e habilidades técnicas, combinando teoria e prática para enfrentar os desafios do setor de TI. Tenho uma paixão por resolver problemas complexos, oferecer suporte técnico de qualidade e aprender novas tecnologias. Acredito que a curiosidade e a vontade de aprender são essenciais para o sucesso na área de TI, e estou sempre em busca de novas oportunidades para crescer e evoluir profissionalmente.</a></i> :man_teacher:.<br />
+<i><b>Olá</b> sou o <code>Pedro </code>, Tenho 21 anos e moro em Belo Horizonte. Sou um estudante dedicado de Ciências da Computação, atualmente no 4º semestre </a></i> :man_teacher:.<br />
 </div>
 
 <hr/>
